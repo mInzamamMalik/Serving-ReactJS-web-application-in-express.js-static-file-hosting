@@ -4,7 +4,7 @@
   "description": "dfsfsdfsdf",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "clear && node server.mjs"
+    "start": "node server.mjs"
   },
   "author": "",
   "license": "ISC",
